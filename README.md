@@ -1,6 +1,6 @@
 # 基于SpringBoot+Vue的小区居民物业管理系统的设计与实现
 
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
 
 **系统运行视频：** https://www.bilibili.com/video/BV1tW421c7V5/?vd_source=5f273f72fd3dc593e25c33cbccdad12e 
 
@@ -16,16 +16,4 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-### 功能结构：
-![功能结构](img/768d48305c923f0b061156882da166e.jpg)
-![角色功能](img/34340e3c0d420305c9fefb86357f4cc.jpg)
-
-### 系统截图：
-![登录](img/image.png)
-![注册](img/image2.png)
-![管理员](img/image1.png)
-![业主](img/image3.png)
-![财务](img/image4.png)
-![输入图片说明](img/image5.png)
-
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
